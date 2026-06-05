@@ -34,11 +34,26 @@
             "imageWidth": 76
           }
         }
-      ]
+      ],
+      "expo-font",
+      "expo-web-browser"
     ],
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "96598057-337b-4afc-a528-3529e64eb9e1"
+      }
+    },
+    "owner": "matheussgentil",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/96598057-337b-4afc-a528-3529e64eb9e1"
     }
   }
 }
